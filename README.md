@@ -1,4 +1,4 @@
-# [![Web Starter Kit](https://cloud.githubusercontent.com/assets/110953/11445049/f05512ba-9520-11e5-8fdb-8c8eb5f690d0.jpg)](https://github.com/google/web-starter-kit/releases/latest)
+# Angular Web Starter Kit
 
 ## Overview
 
@@ -69,9 +69,9 @@ Web Starter Kit is inspired by [Mobile HTML5 Boilerplate](https://html5boilerpla
 
 ## Contributing
 
-Contributions, questions and comments are all welcome and encouraged. For code contributions to Web Starter Kit, please see our [Contribution guide](CONTRIBUTING.md) before submitting a pull request. [Website](https://developers.google.com/web/tools/starter-kit/) related issues should be filed on the [Web Fundamentals](https://github.com/google/WebFundamentals/issues/new) issue tracker.
+Contributions, questions and comments are all welcome and encouraged. For code contributions to Web Starter Kit, please see our [Contribution guide](CONTRIBUTING.md) before submitting a pull request.
 
 ## License
 
-Apache 2.0  
-Copyright 2015 Google Inc
+MIT
+Based on Google's Web Starter Kit
